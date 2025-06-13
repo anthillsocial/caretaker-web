@@ -22,6 +22,12 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: gallery
+        label: Image Gallery
+        type: image
+        options:
+        multiple:
+          max: 6
   - name: site
     label: Site settings
     path: src/_data/site.json
