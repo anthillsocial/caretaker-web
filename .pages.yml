@@ -26,7 +26,7 @@ content:
         label: Image Gallery
         type: image
         options:
-        multiple:
+          multiple:
           max: 6
   - name: site
     label: Site settings
