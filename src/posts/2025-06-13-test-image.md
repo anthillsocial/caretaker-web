@@ -14,6 +14,8 @@ gallery: /media/der-lauf-der-dinge-1.jpg
     
 *   Can I add a direct link or preview to a live site?
     
+*   Can they login without using github?
+    
 *   **This** is the body css.  
     Now what do we do?
     
